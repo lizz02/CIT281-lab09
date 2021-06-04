@@ -2,7 +2,7 @@
 
 - Navigating github repositories
 - Using the github learning lab
-- 
+
 ## Objectives
 
 ### Complete the "Create a release based workflow" course on github
